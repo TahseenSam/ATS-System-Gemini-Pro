@@ -10,7 +10,7 @@ git clone https://github.com/TahseenSam/ATS-System-Gemini-Pro.git
 ```
 GOOGLE_API_KEY="Your API Key here"
 ```
-generate your api key [here](https://makersuite.google.com/app/apikey)
+generate your api key her : [Google API KEY](https://makersuite.google.com/app/apikey)
 
 ## Install requirements
 ```
